@@ -1,4 +1,4 @@
-import Header from "./Header";
+import Header from "../components/Header";
 import { TiWarningOutline } from 'react-icons/ti';
 
 function Projects() {
