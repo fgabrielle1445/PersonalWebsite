@@ -1,4 +1,5 @@
 import Header from "./Header";
+import { TiWarningOutline } from 'react-icons/ti';
 
 function Projects() {
 
@@ -7,7 +8,9 @@ function Projects() {
         <Header />
         <div style={{ padding: 20 }}>
         <h2>Projects View</h2>
-        <p>Email: ghf2@rice.edu</p>
+        <TiWarningOutline size={70}/>
+        <p>Coming soon!</p>
+        <p>Working on some password protected displays!</p>
       </div>
       </div>
     );
